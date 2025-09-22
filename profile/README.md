@@ -1,7 +1,7 @@
-# SEDIMARK: A Decentralised Marketplace for Data and AI Assets
+# SEDIMARK: A Decentralised Marketplace Framework for Data and AI Assets
 
 ## What is it?
-SEDIMARK is an open-source decentralised data and services marketplace designed to:
+SEDIMARK is an open-source solution for a decentralised data and services marketplace designed to:
 
 - Bridge remote data platforms across sectors and geographies.
 - Enable secure, privacy-preserving data sharing
